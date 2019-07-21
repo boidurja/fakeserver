@@ -1,0 +1,695 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Rohan",
+      "middlename": "P",
+      "lastname": "Lamghare",
+      "sex": "Male",
+      "dateofbirth": "25/05/2000",
+      "grade": "4",
+      "division": "B",
+      "bloodgroup": "A+",
+      "profilephoto": "image url",
+      "addressline1": "DSK Gandhakosh",
+      "addressline2": "Prathamesh Park Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "pincode": "411045",
+      "telephone": "0206612345",
+      "mobile": "9960255106",
+      "schoolId": "1",
+      "scholarshipname": "Dr. Lamghare"
+    },
+    {
+      "id": "2",
+      "firstname": "qeqeqweqe",
+      "middlename": "qweqeqe",
+      "lastname": "qweqweqe",
+      "sex": "",
+      "dateofbirth": "",
+      "grade": "",
+      "division": "",
+      "bloodgroup": "",
+      "profilephoto": "",
+      "addressline1": "",
+      "addressline2": "",
+      "city": "",
+      "state": "",
+      "pincode": "",
+      "telephone": "",
+      "mobile": "",
+      "schoolId": "",
+      "scholarshipname": ""
+    },
+    {
+      "id": "3",
+      "firstname": "qdadaad",
+      "middlename": "adadaad",
+      "lastname": "",
+      "sex": "",
+      "dateofbirth": "",
+      "grade": "",
+      "division": "",
+      "bloodgroup": "",
+      "profilephoto": "",
+      "addressline1": "",
+      "addressline2": "",
+      "city": "",
+      "state": "",
+      "pincode": "",
+      "telephone": "",
+      "mobile": "",
+      "schoolId": "",
+      "scholarshipname": ""
+    },
+    {
+      "id": "4",
+      "firstname": "adassd",
+      "middlename": "adadad",
+      "lastname": "dadadsdad",
+      "sex": "",
+      "dateofbirth": "",
+      "grade": "",
+      "division": "",
+      "bloodgroup": "",
+      "profilephoto": "",
+      "addressline1": "",
+      "addressline2": "",
+      "city": "",
+      "state": "",
+      "pincode": "",
+      "telephone": "",
+      "mobile": "",
+      "schoolId": "",
+      "scholarshipname": ""
+    }
+  ],
+  "schools": [
+    {
+      "trustname": "Holy Trustee",
+      "name": "Holy Cross English High School",
+      "boardname": "HSC",
+      "schooladdress1": "ideal colony",
+      "schooladdress2": "Kothrud",
+      "schoolarea": "Kothrud depo",
+      "state": "Maharashtra",
+      "city": "Pune",
+      "pincode": "400031",
+      "schoolcontactnumber1": "0206612345",
+      "schoolcontactnumber2": "0206612346",
+      "schoolemail": "school@gmail.com",
+      "principalname": "Ashok Patil",
+      "principalemail": "ashokpatil@gmail.com",
+      "principalcontactnumber": "9960255106",
+      "coordinator1name": "coordinator one",
+      "coordinator1email": "c1@gmail.com",
+      "coordinator1contactnumber": "8329041810",
+      "coordinator2name": "coordinator two",
+      "coordinator2email": "c2@gmail.com",
+      "coordinator2contactnumber": "8329041811",
+      "coordinator3name": "coordinator three",
+      "coordinator3email": "c3@gmail.com",
+      "coordinator3contactnumber": "8329041812",
+      "numberofstudents": [
+        {
+          "grade3": 10
+        },
+        {
+          "grade4": 12
+        },
+        {
+          "grade5": 14
+        },
+        {
+          "grade6": 16
+        },
+        {
+          "grade7": 20
+        },
+        {
+          "grade8": 22
+        },
+        {
+          "grade9": 21
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "grades": [
+    {
+      "id": 1,
+      "name": "3"
+    },
+    {
+      "id": 2,
+      "name": "4"
+    },
+    {
+      "id": 3,
+      "name": "5"
+    },
+    {
+      "id": 4,
+      "name": "6"
+    },
+    {
+      "id": 5,
+      "name": "7"
+    },
+    {
+      "id": 6,
+      "name": "8"
+    },
+    {
+      "id": 7,
+      "name": "9"
+    }
+  ],
+  "question_categories": [
+    {
+      "id": 1,
+      "name": "P"
+    },
+    {
+      "id": 2,
+      "name": "A"
+    },
+    {
+      "id": 3,
+      "name": "R"
+    },
+    {
+      "id": 4,
+      "name": "S"
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "name": "Alphabet"
+    },
+    {
+      "id": 2,
+      "name": "Numbers"
+    },
+    {
+      "id": 3,
+      "name": "Figures Series"
+    },
+    {
+      "id": 4,
+      "name": "Rhythmic Arrangement"
+    },
+    {
+      "id": 5,
+      "name": "Classification"
+    },
+    {
+      "id": 6,
+      "name": "Dictionary"
+    },
+    {
+      "id": 7,
+      "name": "Analogy:Numbers"
+    },
+    {
+      "id": 8,
+      "name": "Analogy:Letters"
+    },
+    {
+      "id": 9,
+      "name": "Analogy:Figures"
+    },
+    {
+      "id": 10,
+      "name": "Analogy:Letters and Words"
+    },
+    {
+      "id": 11,
+      "name": "Missing Terms"
+    },
+    {
+      "id": 12,
+      "name": "Directions"
+    },
+    {
+      "id": 13,
+      "name": "Encryption & Decryption"
+    },
+    {
+      "id": 14,
+      "name": "Venn diagram"
+    },
+    {
+      "id": 15,
+      "name": "Logic and Conclusions"
+    },
+    {
+      "id": 16,
+      "name": "Completion of Design"
+    },
+    {
+      "id": 17,
+      "name": "Puzzles"
+    },
+    {
+      "id": 18,
+      "name": "Mirror Images"
+    },
+    {
+      "id": 19,
+      "name": "Water Images"
+    },
+    {
+      "id": 20,
+      "name": "Figures"
+    },
+    {
+      "id": 21,
+      "name": "Day and Date"
+    },
+    {
+      "id": 22,
+      "name": "Time"
+    },
+    {
+      "id": 23,
+      "name": "Pyramids"
+    },
+    {
+      "id": 24,
+      "name": "Cubes"
+    },
+    {
+      "id": 25,
+      "name": "Su do ku"
+    },
+    {
+      "id": 26,
+      "name": "Blood Relations"
+    },
+    {
+      "id": 27,
+      "name": "Logical Reasoning"
+    },
+    {
+      "id": 28,
+      "name": "Grid"
+    },
+    {
+      "id": 29,
+      "name": "Civic Sense"
+    },
+    {
+      "id": 30,
+      "name": "General Knowledge"
+    }
+  ],
+  "subchapters": [
+    {
+      "id": 1,
+      "name": "Paragraph Evaluation",
+      "chapterId": 1
+    },
+    {
+      "id": 2,
+      "name": "Series",
+      "chapterId": 1
+    },
+    {
+      "id": 3,
+      "name": "Paragraph Evaluation",
+      "chapterId": 2
+    },
+    {
+      "id": 4,
+      "name": "Series",
+      "chapterId": 2
+    },
+    {
+      "id": 5,
+      "name": "General Knowledge",
+      "chapterId": 5
+    },
+    {
+      "id": 6,
+      "name": "Numeric",
+      "chapterId": 5
+    },
+    {
+      "id": 7,
+      "name": "Figurative",
+      "chapterId": 5
+    },
+    {
+      "id": 8,
+      "name": "Alphabetic",
+      "chapterId": 2
+    },
+    {
+      "id": 9,
+      "name": "Letters",
+      "chapterId": 10
+    },
+    {
+      "id": 10,
+      "name": "Words",
+      "chapterId": 10
+    },
+    {
+      "id": 11,
+      "name": "Numbers and Alphabet",
+      "chapterId": 18
+    },
+    {
+      "id": 12,
+      "name": "Figures",
+      "chapterId": 18
+    },
+    {
+      "id": 13,
+      "name": "Scissors",
+      "chapterId": 20
+    },
+    {
+      "id": 14,
+      "name": "Folds",
+      "chapterId": 20
+    },
+    {
+      "id": 15,
+      "name": "Hidden Figures",
+      "chapterId": 20
+    },
+    {
+      "id": 16,
+      "name": "Word Problems",
+      "chapterId": 27
+    },
+    {
+      "id": 17,
+      "name": "Counting of Figures",
+      "chapterId": 27
+    },
+    {
+      "id": 18,
+      "name": "Numbers and Alphabet",
+      "chapterId": 19
+    },
+    {
+      "id": 19,
+      "name": "Figures",
+      "chapterId": 19
+    },
+    {
+      "id": 20,
+      "name": "Water Image Figures",
+      "chapterId": 19
+    },
+    {
+      "id": 21,
+      "name": "Number-Number",
+      "chapterId": 13
+    },
+    {
+      "id": 22,
+      "name": "Number-Alpha",
+      "chapterId": 13
+    },
+    {
+      "id": 23,
+      "name": "Number-Symbol",
+      "chapterId": 13
+    },
+    {
+      "id": 24,
+      "name": "Alpha-Alpha",
+      "chapterId": 13
+    },
+    {
+      "id": 25,
+      "name": "Symbol-Symbol",
+      "chapterId": 13
+    },
+    {
+      "id": 26,
+      "name": "Alpha-Symbol",
+      "chapterId": 13
+    },
+    {
+      "id": 27,
+      "name": "Words",
+      "chapterId": 8
+    },
+    {
+      "id": 28,
+      "name": "Alphabet",
+      "chapterId": 8
+    },
+    {
+      "id": 29,
+      "name": "Word Problems",
+      "chapterId": 15
+    },
+    {
+      "id": 30,
+      "name": "Counting of Figures",
+      "chapterId": 15
+    }
+  ],
+  "sub_subchapters": [
+    {
+      "id": 1,
+      "name": "Quadrilaterals",
+      "subchapterId": 17
+    },
+    {
+      "id": 2,
+      "name": "Triangles",
+      "subchapterId": 17
+    },
+    {
+      "id": 3,
+      "name": "Circle",
+      "subchapterId": 17
+    },
+    {
+      "id": 4,
+      "name": "Mixture",
+      "subchapterId": 17
+    }
+  ],
+  "question_types": [
+    {
+      "id": 1,
+      "name": "Textual"
+    },
+    {
+      "id": 2,
+      "name": "Figurative"
+    },
+    {
+      "id": 3,
+      "name": "Mathematical"
+    }
+  ],
+  "question_levels": [
+    {
+      "id": 1,
+      "name": "High"
+    },
+    {
+      "id": 2,
+      "name": "Medium"
+    },
+    {
+      "id": 3,
+      "name": "Low"
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "hasquestionText": true,
+      "questiontext": "This is a Textual type question",
+      "hasquestionImage": false,
+      "imagepath": null,
+      "hasoptionText": true,
+      "optionA": "This is option A. This is the correct option",
+      "optionB": "This is option B",
+      "optionC": "This is option C",
+      "optionD": "This is option D",
+      "optionText": null,
+      "correctoption": "A",
+      "hasoptionImage": false,
+      "optionimagepath": null,
+      "hasexplanationText": true,
+      "explanationtext": "This is Textual Explanation Text",
+      "hasexplanationImage": false,
+      "explanationimagepath": null,
+      "chapterId": 1,
+      "subchapterId": 1,
+      "questiontypeId": 1,
+      "questionlevelId": 1
+    },
+    {
+      "id": 2,
+      "hasquestionText": true,
+      "text": "This is a Figurative type question",
+      "hasquestionImage": true,
+      "imagepath": "s3.amazons.com/3/A/queimage.png",
+      "hasoptionText": true,
+      "optionA": null,
+      "optionB": null,
+      "optionC": null,
+      "optionD": null,
+      "optionText": "This is option text",
+      "correctoption": "B",
+      "hasoptionImage": true,
+      "optionimagepath": "s3.amazons.com/3/A/optionimage.png",
+      "hasexplanationText": true,
+      "explanationtext": "This is Figurative Explanation Text",
+      "hasexplanationImage": true,
+      "explanationimagepath": "s3.amazons.com/3/A/explanationimage.png",
+      "chapterId": 1,
+      "subchapterId": 1,
+      "questiontypeId": 2,
+      "questionlevelId": 2
+    },
+    {
+      "id": 3,
+      "hasquestionText": true,
+      "text": "This is a Mathematical type question",
+      "hasquestionImage": true,
+      "imagepath": "s3.amazons.com/3/A/queimage.png",
+      "hasoptionText": true,
+      "optionA": "This is option A",
+      "optionB": "This is option B",
+      "optionC": "This is option C",
+      "optionD": "This is option D",
+      "optionText": null,
+      "correctoption": "C",
+      "hasoptionImage": false,
+      "optionimagepath": null,
+      "hasexplanationText": true,
+      "explanationtext": "This is Figurative Explanation Text",
+      "hasexplanationImage": true,
+      "explanationimagepath": "s3.amazons.com/3/A/explanationimage.png",
+      "chapterId": 1,
+      "subchapterId": 1,
+      "questiontypeId": 3,
+      "questionlevelId": 3
+    }
+  ],
+  "quiz_status": [
+    {
+      "id": 1,
+      "name": "Not Started"
+    },
+    {
+      "id": 2,
+      "name": "Completed"
+    },
+    {
+      "id": 3,
+      "name": "Not Taken"
+    }
+  ],
+  "quizzes": [
+    {
+      "gradeId": 3,
+      "datetime": "2019-12-07 12:45:00 pm",
+      "duration": "60 minutes",
+      "quecategoryId": 1,
+      "chapterId": 1,
+      "subchapterId": 1,
+      "subsubchapterId": 1,
+      "questioncount": 9,
+      "highquestioncount": 3,
+      "medquestioncount": 3,
+      "lowquestioncount": 3,
+      "id": 1
+    }
+  ],
+  "quiz_students": [
+    {
+      "quizId": 1,
+      "userId": 1,
+      "quizstarttime": "12:45:00 pm",
+      "quizendtime": "01:45:00 pm",
+      "marksobtained": 20,
+      "id": 1
+    }
+  ],
+  "quiz_questions": [
+    {
+      "quizId": 1,
+      "questionId": 1,
+      "quelevelId": 1,
+      "correctoption": "A",
+      "id": 1
+    }
+  ],
+  "quiz_stud_quests": [
+    {
+      "quizId": 1,
+      "quizstudentId": 1,
+      "quizquestionId": 1,
+      "ansgiven": "A",
+      "attemptcount": 1,
+      "marksobtained": 3,
+      "id": 1
+    }
+  ],
+  "daily_quiz_stud_chapters": [
+    {
+      "userId": 1,
+      "gradeId": 1,
+      "chapterId": 1,
+      "chaptername": "Numbers",
+      "totalquestioncount": 1,
+      "statusId": 1,
+      "marksobtained": 33,
+      "id": 1
+    }
+  ],
+  "daily_stud_quiz_questions": [
+    {
+      "userId": 1,
+      "dailyquizstudchapterId": 1,
+      "questionId": 1,
+      "questionansgiven": "A",
+      "attemptcount": 1,
+      "marksobtained": 33,
+      "id": 1
+    }
+  ],
+  "students_daily_stats": [
+    {
+      "userId": 1,
+      "schoolId": 1,
+      "gradeId": 1,
+      "totalmarksobtained": 90,
+      "firsttryquestioncount": 5,
+      "thirdtryquestioncount": 5,
+      "myleaguerank": 1,
+      "schoolrank": 1,
+      "globalrank": 2,
+      "id": 1
+    }
+  ],
+  "students_monthly_stats": [
+    {
+      "userId": 1,
+      "schoolId": 1,
+      "gradeId": 1,
+      "totalmarksobtained": 95,
+      "myleaguerank": 1,
+      "schoolrank": 1,
+      "globalrank": 2,
+      "id": 1
+    }
+  ]
+}
